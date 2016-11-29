@@ -1,0 +1,8 @@
+{
+  "source": "./",
+  "destination": "build",
+  "layoutsDir": "_layouts",
+  "engine": "react",
+  "layoutExtensions": ["tsx"],
+  "googleAnalytics": "UA-87373116-1"
+}

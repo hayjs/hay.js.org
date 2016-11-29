@@ -6,7 +6,7 @@ git clean -fxd
 cd ../
 hay bale
 cp -R build/* gh-pages/
-cp -f circle.yml gh-pages/circle.yml
+rm -rf build/
 cd gh-pages
 git add --all
 git commit -m "Release at $(date)"

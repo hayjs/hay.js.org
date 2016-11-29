@@ -1,0 +1,36 @@
+
+.logo .top {
+  fill: #BBFFFE;
+}
+.logo .left-top {
+  fill: #5BF6FA;
+}
+.logo .left-middle {
+  fill: #53FFFE;
+}
+.logo .left-bottom {
+  fill: #49D9FD;
+}
+.logo .right-top {
+  fill: #3AD772;
+}
+.logo .right-middle {
+  fill: #4EFD9D;
+}
+.logo .right-bottom {
+  fill: #36C473;
+}
+.logo .st1 {
+  fill: #fff;
+}
+
+.logo {
+  width: 300px;
+  display: block;
+  border-radius: 40px;
+  padding: 20px 20px;
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translate3d(-50%, 0, 0);
+}

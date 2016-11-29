@@ -13,15 +13,6 @@ export default class HomePage extends React.Component<{}, {}> {
   render() {
     return (
       <div>
-        <this.props.marked>
-          {
-            [
-              '```js',
-              'let hello = {}',
-              '```'
-            ].join('\n')
-          }
-        </this.props.marked>
         <Landing />
         <section className="about">
           <div className="about__line about__line--white"></div>

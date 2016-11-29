@@ -1,5 +1,5 @@
 {
-  "source": "./",
+  "source": "src",
   "destination": "build",
   "layoutsDir": "_layouts",
   "engine": "react",

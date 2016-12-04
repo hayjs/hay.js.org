@@ -85,7 +85,6 @@ p {
 
 .intro, .landing {
   position: relative;
-  font-family: "Gotham SSm A", "Gotham SSm B";
   font-style: normal;
   font-weight: 400;
 }
@@ -825,7 +824,6 @@ h1 {
   text-align: center;
   font-size: 32px;
   margin: 20px 0;
-  font-family: "Gotham SSm A", "Gotham SSm B";
   font-style: normal;
   font-weight: 400;
 }

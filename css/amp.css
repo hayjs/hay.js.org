@@ -1,0 +1,53 @@
+html, body {
+  font: 18px/31px PT Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+body {
+  background: rgba(0, 0, 0, 0.05);
+  color: #444444;
+}
+.header {
+  height: 80px;
+}
+.header .header__fixed {
+  background: #262626;
+  height: inherit;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.header .logo {
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.logo {
+}
+.logo .left-bottom {
+  fill: #49d9fd;
+}
+.logo .left-middle {
+  fill: #53fffe;
+}
+.logo .left-top {
+  fill: #5bf6fa;
+}
+.logo .top {
+  fill: #bbfffe;
+}
+.logo .right-bottom {
+  fill: #36c473;
+}
+.logo .right-middle {
+  fill: #4efd9d;
+}
+.logo .right-top {
+  fill: #3ad772;
+}
+.logo .st1 {
+  fill: #fff;
+}
+amp-sidebar {
+  width: 250px;
+  padding-right: 10px;
+}

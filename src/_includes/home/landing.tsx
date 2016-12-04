@@ -103,7 +103,7 @@ export default class Landing extends React.Component<{}, LandingState> {
                   </a>
                 </li>
                 <li className="navigation__item">
-                <a rel="noopener" target="_blank" href="https://github.com/rynclark/hay" className="navigation__link">
+                <a rel="noopener" target="_blank" href="https://github.com/hayjs/hay" className="navigation__link">
                   GitHub
                 </a>
                 </li>

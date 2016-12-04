@@ -310,7 +310,7 @@ p {
     -ms-transform: rotate(1deg);
     transform: rotate(1deg);
   }
-  0%, 100%, 5% {
+  100%, 5% {
     -moz-transform: rotate(0deg);
     -ms-transform: rotate(0deg);
     transform: rotate(0deg);

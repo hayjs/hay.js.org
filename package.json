@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hayjs/hay.js.org/issues"
   },
-  "homepage": "https://github.com/hayjs/hay.js.org#readme"
+  "homepage": "https://github.com/hayjs/hay.js.org#readme",
+  "devDependencies": {
+    "@types/react": "^0.14.52"
+  }
 }
